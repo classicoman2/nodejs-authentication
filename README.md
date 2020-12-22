@@ -9,6 +9,7 @@ Testing some authentication strategies in nodejs
 
 Més:
 - [Node Auth Tutorial (JWT) de The Net Ninja](https://www.youtube.com/watch?v=SnoAwLP1a-0&list=PL4cUxeGkcC9iqqESP8335DA5cRFp8loyp)
+- [JWT Authentication Tutorial - Node.js de Web Dev Simplified](https://www.youtube.com/watch?v=mbsmsi7l3r4)
 - [JSON Web Tokens (JWTs) in Express.js](https://www.digitalocean.com/community/tutorials/nodejs-jwt-expressjs)
 - [JSON Web Token](https://en.wikipedia.org/wiki/JSON_Web_Token), Wikipedia
 - [jwt.io](https://jwt.io/)
