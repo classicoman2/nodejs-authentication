@@ -3,15 +3,15 @@ Testing some authentication strategies in nodejs
 
 ## Webgraphy
 
-- [Painless Nodejs Authentication (JWT, Passport.js i Oauth sobre Node.js](https://developer.okta.com/blog/2019/10/03/painless-node-authentication)
+- :star: [Painless Nodejs Authentication (JWT, Passport.js i Oauth sobre Node.js](https://developer.okta.com/blog/2019/10/03/painless-node-authentication)
 
 
 - [What the heck is OAuth?](https://developer.okta.com/blog/2017/06/21/what-the-heck-is-oauth)
 - [Basic HTTP Authentication](https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication)
 
 Sobre JWT i Node.js
-- [x] Video Tutorial (part 1): [What is JWT authorization really about - Java Brains](https://www.youtube.com/watch?v=soGRyl9ztjI)
-- [ ] Video Tutorial (part 2): [What is the structure of a JWT - Java Brains](https://www.youtube.com/watch?v=_XbXkVdoG_0)
+- [x] :star: Video Tutorial (part 1): [What is JWT authorization really about - Java Brains](https://www.youtube.com/watch?v=soGRyl9ztjI)
+- [ ] :star: Video Tutorial (part 2): [What is the structure of a JWT - Java Brains](https://www.youtube.com/watch?v=_XbXkVdoG_0)
 
 - [JWT Authentication Tutorial - Node.js de Web Dev Simplified](https://www.youtube.com/watch?v=mbsmsi7l3r4)
 - [JSON Web Tokens (JWTs) in Express.js](https://www.digitalocean.com/community/tutorials/nodejs-jwt-expressjs)
