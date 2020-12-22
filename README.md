@@ -11,7 +11,7 @@ Testing some authentication strategies in nodejs
 
 Sobre JWT i Node.js
 - [x] :star: Video Tutorial (part 1): [What is JWT authorization really about - Java Brains](https://www.youtube.com/watch?v=soGRyl9ztjI)
-- [ ] :star: Video Tutorial (part 2): [What is the structure of a JWT - Java Brains](https://www.youtube.com/watch?v=_XbXkVdoG_0)
+- [x] :star: Video Tutorial (part 2): [What is the structure of a JWT - Java Brains](https://www.youtube.com/watch?v=_XbXkVdoG_0)
 
 - [JWT Authentication Tutorial - Node.js de Web Dev Simplified](https://www.youtube.com/watch?v=mbsmsi7l3r4)
 - [JSON Web Tokens (JWTs) in Express.js](https://www.digitalocean.com/community/tutorials/nodejs-jwt-expressjs)
